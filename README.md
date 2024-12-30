@@ -2,6 +2,9 @@
 
 ## Snapshot of the Dashboard
   ![power bi project data to](https://github.com/user-attachments/assets/aa0d8843-ffe9-424b-91a2-05da59c19899)
+
+  ## Dashboard link: https://app.powerbi.com/groups/me/reports/9221659f-083f-4ea5-a8a5-00ef5f6e7f2a/6afdce63837b19257c08?experience=power-bi
+  
 ## STEPS IN PROJECT
 
 - Step 1 :  Requirement Gathering/ Business Requirements.
